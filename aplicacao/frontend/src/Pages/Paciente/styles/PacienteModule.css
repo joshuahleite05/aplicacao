@@ -1,0 +1,15 @@
+.paciente-module {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .paciente-module h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .module-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #444;
+  }

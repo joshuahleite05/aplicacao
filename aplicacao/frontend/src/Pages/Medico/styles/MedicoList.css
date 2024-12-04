@@ -1,0 +1,33 @@
+.medico-list {
+  background-color: #fff;
+  width: 100%;
+  border-collapse: collapse;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.medico-list th,
+.medico-list td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.medico-list th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #d9534f;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c9302c;
+}

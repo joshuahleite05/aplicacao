@@ -1,0 +1,29 @@
+.consulta-list {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.consulta-list th,
+.consulta-list td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.consulta-list th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #d9534f;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c9302c;
+}

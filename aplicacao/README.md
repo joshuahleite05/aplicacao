@@ -8,3 +8,6 @@ npm start -- para iniciar API
 para rodar o backend (Comandos para CMD dentro da pasta backend):
 npm install  -- para baixar as dependencias da api
 npm run dev -- para iniciar aplicacao
+
+projeto no github:
+https://github.com/joshuahleite05/aplicacao.git
